@@ -1,0 +1,80 @@
+.h1-title {
+	width: 465px;
+	font-size: 42px;
+	font-weight: 800;
+	color: #000000;
+	line-height: 56px;
+}
+.container1 {
+	width: 1088px;
+	margin: 82px auto 50px;
+}
+.container2 {
+	width: 1088px;
+	margin: 0 auto;
+}
+.clear {
+	clear: both;
+}
+.f-left {
+	float: left;
+}
+.f-right {
+	float: right;
+}
+.text-box {
+	width: 260px;
+	font-size: 14px;
+	color: #B1B1B1;
+	font-family: 'Poppins';
+	font-weight: 500;
+	line-height: 21px;
+}
+.left-block,
+.right-block {
+	background-color: #F8F8F8;
+	width: 536px;
+}
+.h3-title {
+	font-size: 18px;
+	color: #000000;
+	font-family: 'Poppins';
+	font-weight: 600;
+	line-height: 27px;
+}
+.h4-title {
+	font-size: 14px;
+	color: #5863F8;
+	font-family: 'Poppins';
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 21px;
+}
+.text-block {
+	margin-left: 16px;
+	margin-top: 37px;
+}
+.container-1st {
+	margin-bottom: 16px;
+}
+.marg {
+	margin: 0 16px;
+}
+.cont1 {
+	margin-top: 50px;
+	margin-bottom: 16px;
+}
+.cont2 {
+	margin-bottom: 87px;
+}
+.center {
+	text-align: center;
+	vertical-align: middle;
+}
+.p-marg {
+	margin: 0 auto;
+}
+.text-block2 {
+	padding-top: 16px;
+	background-color: #F8F8F8;
+}
